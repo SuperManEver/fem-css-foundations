@@ -1,38 +1,6 @@
-@font-face {
-  font-family: Inter;
-  src: url(../fonts/Inter-Regular.ttf);
-}
-
-@font-face {
-  font-family: InterBold;
-  src: url(../fonts/Inter-Bold.ttf);
-}
-
-:root {
-  --main-color: #ff7b54;
-  --white: #ffffff;
-
-  --font-heading-size: 128px;
-  --font-sub-heading-size: 40px;
-  --font-button-size: 32px;
-  --font-logo-size: 40px;
-  --font-nav-size: 20px;
-  --font-speaker-name-size: 32px;
-  --font-company-size: 24px;
-  --font-description-size: 24px;
-}
+@import url(./base.css);
 
 body {
   background-color: var(--white);
   color: var(--main-color);
-  font-family: 'Inter', sans-serif;
-}
-
-a {
-  color: inherit;
-  text-decoration: none;
-}
-
-li {
-  list-style: none;
 }
