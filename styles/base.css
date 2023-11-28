@@ -9,8 +9,8 @@
 }
 
 :root {
-  --main-color: #ff7b54;
-  --white: #ffffff;
+  --color-primary: #ff7b54;
+  --color-text-on-primary: #ffffff;
 
   --font-heading-size: 128px;
   --font-sub-heading-size: 40px;

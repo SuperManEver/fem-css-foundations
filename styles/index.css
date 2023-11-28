@@ -1,6 +1,6 @@
 @import url(./base.css);
 
 body {
-  background-color: var(--main-color);
-  color: var(--white);
+  background-color: var(--color-primary);
+  color: var(--color-text-on-primary);
 }
