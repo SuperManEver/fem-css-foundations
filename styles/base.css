@@ -48,6 +48,7 @@ body {
 
 .header__title {
   font-size: var(--font-logo-size);
+  font-weight: bold;
 }
 
 .nav {
