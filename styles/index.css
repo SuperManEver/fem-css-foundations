@@ -4,3 +4,18 @@ body {
   background-color: var(--color-primary);
   color: var(--color-text-on-primary);
 }
+
+.main {
+  padding: 150px;
+}
+
+.main__heading {
+  font-size: var(--font-heading-size);
+  font-weight: bold;
+  line-height: 1;
+}
+
+.main__sub-heading {
+  font-size: var(--font-logo-size);
+  margin-bottom: 99px;
+}
